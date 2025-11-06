@@ -1,12 +1,13 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/78f51025-1027-4c9f-a201-e15a1e684548" alt="header" width="100%" />
+  <img src="YOUR_BANNER_LINK_HERE" width="100%" />
 </p>
 
-<!-- Typing Header -->
+<!-- Typing text right under banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Explorer+%7C+Deep+Learning+Enthusiast;Creative+Technologist+%7C+Problem+Solver;Always+Learning%2C+Building%2C+and+Creating" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Explorer;Deep+Learning+Enthusiast;Creative+Technologist;Always+Learning+%26+Building" />
 </p>
+
 
 
 <p align="center">
