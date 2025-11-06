@@ -30,17 +30,18 @@
   <tr>
     <td width="65%" valign="middle">
 
-✨ **Curiosity-driven learner** across AI, deep learning, astrophysics, and system design.  
-🧩 **Problem solver** who loves turning complex ideas into simple, usable solutions.  
-🎨 **Believer that code is creativity** — every model, every logic, every design tells a story.  
-🚀 **Always building** — always experimenting — always learning.
+✨ <b>Curiosity-driven learner</b> across AI, deep learning, astrophysics, and system design.  
+🧩 <b>Problem solver</b> who loves turning complex ideas into simple, usable solutions.  
+🎨 <b>Believer that code is creativity</b> — every model, every logic, every design tells a story.  
+🚀 <b>Always building</b> — always experimenting — always learning.
 
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="280" alt="Night Coding"/>
+      <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="260" />
     </td>
   </tr>
 </table>
+
 
 
 ---
