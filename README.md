@@ -1,3 +1,5 @@
+<div style="border: 2px solid #e0e0e0; border-radius: 20px; padding: 30px; margin: 25px 0;">
+
 <!-- Banner -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/78f51025-1027-4c9f-a201-e15a1e684548" alt="header" width="100%" />
@@ -98,4 +100,5 @@
 
 ---
 
-⭐️ From [Swapnanil Das](https://github.com/swapnanildas1752)
+</div>
+
