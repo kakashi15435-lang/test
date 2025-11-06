@@ -1,4 +1,4 @@
-<div style="border: 2px solid #e0e0e0; border-radius: 20px; padding: 30px; margin: 25px 0;">
+
 
 <!-- Banner -->
 <p align="center">
@@ -16,6 +16,7 @@
 </p>
 
 
+<div style="border: 2px solid #e0e0e0; border-radius: 20px; padding: 30px; margin: 25px 0;">
 
 
 ## 👋 Introduction  
@@ -97,8 +98,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
+
+
 </div>
----
+
 
 
 
