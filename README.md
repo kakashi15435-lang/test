@@ -28,10 +28,13 @@
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="300" />
 
 ## 🧠 About Me  
+
 ✨ Curiosity-driven learner across AI, deep learning, astrophysics, and system design.  
 🧩 Problem solver who loves turning complex ideas into simple, usable solutions.  
 🎨 Believer that code is creativity — every model, every logic, every design tells a story.  
 🚀 Always building — always experimenting — always learning.
+
+
 
 ---
 
