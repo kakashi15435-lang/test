@@ -24,22 +24,24 @@
 📬 **Reach me:** **swapnanildas1752@gmail.com**
 
 ---
-## 🧠 About Me  
+## 🧠 About Me
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
+<table>
+  <tr>
+    <td width="65%" valign="middle">
 
 ✨ **Curiosity-driven learner** across AI, deep learning, astrophysics, and system design.  
 🧩 **Problem solver** who loves turning complex ideas into simple, usable solutions.  
 🎨 **Believer that code is creativity** — every model, every logic, every design tells a story.  
-🚀 **Always building** — always experimenting — always learning.  
+🚀 **Always building** — always experimenting — always learning.
 
-  </div>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="280" alt="Night Coding"/>
+    </td>
+  </tr>
+</table>
 
-  <p align ="right">
-  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="260" />
-  </p>
-</div>
 
 ---
 ## 🧰 Tech Stack
