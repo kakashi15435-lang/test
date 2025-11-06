@@ -3,8 +3,7 @@
   <img src="https://github.com/user-attachments/assets/78f51025-1027-4c9f-a201-e15a1e684548" alt="header" width="100%" />
 </p>
 
-<h1 align="center">Hey, World! 🌍 I'm <b>Swapnanil Das</b></h1>
-<h3 align="center">🚀 Curious Mind | AI & ML Enthusiast | Software Engineer in the Making</h3>
+
 
 
 
