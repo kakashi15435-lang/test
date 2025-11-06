@@ -64,40 +64,26 @@
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
-</p>
-
-  
----
-
-## 🚀 Featured Projects
-
-### 🌌 **AI Chatbot for Research Summaries**
-- Summarizes academic PDFs  
-- Generates quizzes & insights  
-- Powered by **LLMs, LangChain, Flask**
+</p> 
 
 ---
 
-### 🧠 **Deep Learning Experiments**
-- CNN & RNN architectures  
-- Optimization-focused modeling  
-- Projects exploring sequence learning + vision
+## 🌐 Socials
 
----
-
-### 🧮 **Apriori Algorithm Web App**
-- Backend + Frontend  
-- Flask deployment  
-- Clean UI & fast computation  
-
----
-
-## 🌐 Socials  
 <p>
-  <a href="mailto:swapnanildas1752@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png"/></a>
-  <a href="https://linkedin.com/in/swapnanildas"><img src="https://img.icons8.com/fluency/48/linkedin.png"/></a>
-  <a href="https://github.com/swapnanildas1752"><img src="https://img.icons8.com/fluency/48/github.png"/></a>
+  <a href="mailto:swapnanildas1752@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/swapnanildas">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/swapnanildas1752">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
