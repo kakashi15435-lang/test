@@ -16,7 +16,7 @@
 
 
 
-** 👋 Introduction  
+## 👋 Introduction  
 💡 **Tech Explorer at Heart:** Fascinated by how intelligence emerges—from neural networks to the cosmos.  
 🧠 **AI & ML Enthusiast:** I build intelligent systems, optimize models, and love pushing boundaries of what machines can understand.  
 🌌 **Creative Vision:** I see technology as art—tools that help us imagine, create, and transform the world.  
@@ -25,7 +25,7 @@
 
 
 
-** 🧠 About Me
+## 🧠 About Me
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="260" alt="Night Coding"/>
 
 - ✨ **Curiosity-driven learner** across AI, deep learning, astrophysics, and system design.  
