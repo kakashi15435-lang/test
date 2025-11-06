@@ -17,7 +17,6 @@
 🚀 **What I'm Pursuing:** Creating technology that inspires, solves real problems, and expands what’s possible—one model, one system, one idea at a time.  
 📬 **Reach me:** **swapnanildas1752@gmail.com**
 
----
 
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="300"/>
 
@@ -27,7 +26,7 @@
 🎨 **Creative Technologist:** I see code as art — every system tells a story, every model reveals a pattern, and every experiment unlocks a new idea.  
 🎯 **Mission:** To build AI systems and digital experiences that feel alive, meaningful, and impactful.
 
----
+
 
 ## 🔒 Tech Stack
 
