@@ -7,8 +7,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Explorer+%7C+Deep+Learning+Enthusiast;Creative+Technologist+%7C+Problem+Solver;Always+Learning%2C+Building%2C+and+Creating" />
 </p>
-<p align="center" style="margin-top:-20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3800&color=00C2FF&center=true&vCenter=true&width=650&lines=AI+Explorer;Deep+Learning+Enthusiast;Always+Learning+%26+Building" />
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=swapnanildas1752&color=blueviolet&style=flat-square" />
 </p>
 
 
