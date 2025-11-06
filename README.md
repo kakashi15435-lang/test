@@ -16,7 +16,7 @@
 
 ---
 
-## 👋 Introduction  
+👋 Introduction  
 💡 **Tech Explorer at Heart:** Fascinated by how intelligence emerges—from neural networks to the cosmos.  
 🧠 **AI & ML Enthusiast:** I build intelligent systems, optimize models, and love pushing boundaries of what machines can understand.  
 🌌 **Creative Vision:** I see technology as art—tools that help us imagine, create, and transform the world.  
@@ -25,7 +25,7 @@
 
 ---
 
-## 🧠 About Me
+ 🧠 About Me
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="260" alt="Night Coding"/>
 
 - ✨ **Curiosity-driven learner** across AI, deep learning, astrophysics, and system design.  
@@ -36,7 +36,7 @@
 <br clear="right"/>
 
 ---
-## 🧰 Tech Stack
+ 🧰 Tech Stack
 
 <p>
 
@@ -64,7 +64,7 @@
 
 ---
 
-## 🌐 Socials
+ 🌐 Socials
 
 <p>
   <a href="mailto:swapnanildas1752@gmail.com">
@@ -83,7 +83,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+ 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=swapnanildas1752&show_icons=true&theme=tokyonight" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swapnanildas1752&theme=tokyonight" width="48%">
@@ -91,7 +91,7 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake  
+ 🐍 GitHub Contribution Snake  
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
