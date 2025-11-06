@@ -24,44 +24,42 @@
 📬 **Reach me:** **swapnanildas1752@gmail.com**
 
 ---
-
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="300" />
-
 ## 🧠 About Me  
 
-✨ Curiosity-driven learner across AI, deep learning, astrophysics, and system design.  
-🧩 Problem solver who loves turning complex ideas into simple, usable solutions.  
-🎨 Believer that code is creativity — every model, every logic, every design tells a story.  
-🚀 Always building — always experimenting — always learning.
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
 
+✨ **Curiosity-driven learner** across AI, deep learning, astrophysics, and system design.  
+🧩 **Problem solver** who loves turning complex ideas into simple, usable solutions.  
+🎨 **Believer that code is creativity** — every model, every logic, every design tells a story.  
+🚀 **Always building** — always experimenting — always learning.  
 
+  </div>
+
+  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="260" />
+</div>
 
 ---
 
 ## 🔧 Tech Stack
 
 ### 🔤 Languages  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-</p>
+✅ Python  
+✅ C++  
+✅ SQL  
+✅ JavaScript  
 
 ### ⚙️ Frameworks  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="45"/>
-</p>
+- PyTorch  
+- Flask  
+- Streamlit  
+- Unity  
 
 ### 🛠️ Tools  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="45"/>
-</p>
+- Git  
+- VS Code  
+- Google Colab  
+
 
 ---
 
