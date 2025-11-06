@@ -14,7 +14,7 @@
 </p>
 
 
----
+
 
 👋 Introduction  
 💡 **Tech Explorer at Heart:** Fascinated by how intelligence emerges—from neural networks to the cosmos.  
@@ -23,7 +23,7 @@
 🎯 **Goal:** To craft experiences and AI systems that inspire, solve real problems, and spark curiosity.  
 📬 **Reach me:** **swapnanildas1752@gmail.com**
 
----
+
 
  🧠 About Me
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="260" alt="Night Coding"/>
@@ -35,7 +35,7 @@
 
 <br clear="right"/>
 
----
+
  🧰 Tech Stack
 
 <p>
@@ -62,7 +62,7 @@
 
 </p> 
 
----
+
 
  🌐 Socials
 
@@ -81,7 +81,7 @@
 </p>
 
 
----
+
 
  📊 GitHub Stats  
 <p align="center">
@@ -89,7 +89,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swapnanildas1752&theme=tokyonight" width="48%">
 </p>
 
----
+
 
  🐍 GitHub Contribution Snake  
 <p align="center">
