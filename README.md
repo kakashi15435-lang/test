@@ -1,19 +1,19 @@
 <!-- Banner -->
 <p align="center">
-  <img src="<img width="2566" height="1402" alt="image" src="https://github.com/user-attachments/assets/39295c50-b5cc-4805-a415-09c01c44223b" />
-" width="100%" />
+  <img src="https://github.com/user-attachments/assets/78f51025-1027-4c9f-a201-e15a1e684548" alt="header" width="100%" />
 </p>
 
-<!-- Typing text right under banner -->
+<!-- Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Explorer;Deep+Learning+Enthusiast;Creative+Technologist;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Explorer+%7C+Deep+Learning+Enthusiast;Creative+Technologist+%7C+Problem+Solver;Always+Learning%2C+Building%2C+and+Creating" />
 </p>
 
-
+<h1 align="center">Hey, Universe! 👋 I'm <b>Swapnanil Das</b></h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=swapnanildas1752&color=blueviolet&style=flat-square" />
 </p>
+
 
 ---
 
