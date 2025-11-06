@@ -3,34 +3,41 @@
   <img src="https://github.com/user-attachments/assets/78f51025-1027-4c9f-a201-e15a1e684548" alt="header" width="100%" />
 </p>
 
+<!-- Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Explorer+%7C+Deep+Learning+Enthusiast;Creative+Technologist+%7C+Problem+Solver;Always+Learning%2C+Building%2C+and+Creating" />
+</p>
+
 <h1 align="center">Hey, Universe! 👋 I'm <b>Swapnanil Das</b></h1>
-<h3 align="center">AI Explorer • Deep Learning Enthusiast • Builder in the Making</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=swapnanildas1752&color=blueviolet&style=flat-square" />
 </p>
 
-<!-- Intro -->
+---
+
 ## 👋 Introduction  
-💡 **Tech Explorer at Heart:** I’m fascinated by how intelligence—natural or artificial—emerges from patterns, logic, and creativity.  
-🧠 **Passionate about AI & ML:** I spend my time understanding deep learning systems, building models, and experimenting with ideas that turn into meaningful tools.  
-🚀 **What I'm Pursuing:** Creating technology that inspires, solves real problems, and expands what’s possible—one model, one system, one idea at a time.  
+💡 **Tech Explorer at Heart:** Fascinated by how intelligence emerges—from neural networks to the cosmos.  
+🧠 **AI & ML Enthusiast:** I build intelligent systems, optimize models, and love pushing boundaries of what machines can understand.  
+🌌 **Creative Vision:** I see technology as art—tools that help us imagine, create, and transform the world.  
+🎯 **Goal:** To craft experiences and AI systems that inspire, solve real problems, and spark curiosity.  
 📬 **Reach me:** **swapnanildas1752@gmail.com**
 
+---
 
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="300"/>
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="300" />
 
 ## 🧠 About Me  
-✨ **Curiosity-Driven:** Whether it's astrophysics, AI, or system design, I love exploring the unknown.  
-🧩 **Problem Solver:** I enjoy breaking down complex concepts into elegant, intuitive solutions.  
-🎨 **Creative Technologist:** I see code as art — every system tells a story, every model reveals a pattern, and every experiment unlocks a new idea.  
-🎯 **Mission:** To build AI systems and digital experiences that feel alive, meaningful, and impactful.
+✨ Curiosity-driven learner across AI, deep learning, astrophysics, and system design.  
+🧩 Problem solver who loves turning complex ideas into simple, usable solutions.  
+🎨 Believer that code is creativity — every model, every logic, every design tells a story.  
+🚀 Always building — always experimenting — always learning.
 
+---
 
+## 🔧 Tech Stack
 
-## 🔒 Tech Stack
-
-### 🔤 Languages & Tools  
+### 🔤 Languages  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
@@ -55,30 +62,26 @@
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
-### 🌌 **1. AI Chatbot for Research Summaries**  
-✅ Summarizes academic PDFs  
-✅ Creates quizzes & insights  
-✅ Built with **LLMs, LangChain, Flask, Python**
-
----
-
-### 🧠 **2. Deep Learning Projects**  
-✅ CNN-based classifiers  
-✅ RNN/LSTM experiments  
-✅ Custom architectures & optimization work  
+### 🌌 **AI Chatbot for Research Summaries**
+- Summarizes academic PDFs  
+- Generates quizzes & insights  
+- Powered by **LLMs, LangChain, Flask**
 
 ---
 
-### 🧮 **3. Apriori Algorithm Web App (CIS550)**  
-✅ Backend + Frontend  
-✅ Flask-powered  
-✅ Deployed version (coming soon)
+### 🧠 **Deep Learning Experiments**
+- CNN & RNN architectures  
+- Optimization-focused modeling  
+- Projects exploring sequence learning + vision
 
 ---
 
-If you'd like, I can add images, banners, or project cards.
+### 🧮 **Apriori Algorithm Web App**
+- Backend + Frontend  
+- Flask deployment  
+- Clean UI & fast computation  
 
 ---
 
@@ -93,8 +96,15 @@ If you'd like, I can add images, banners, or project cards.
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swapnanildas1752&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swapnanildas1752&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=swapnanildas1752&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swapnanildas1752&theme=tokyonight" width="48%">
+</p>
+
+---
+
+## 🐍 GitHub Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
