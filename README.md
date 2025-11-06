@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="YOUR_BANNER_LINK_HERE" width="100%" />
+  <img src="<img width="2566" height="1402" alt="image" src="https://github.com/user-attachments/assets/39295c50-b5cc-4805-a415-09c01c44223b" />
+" width="100%" />
 </p>
 
 <!-- Typing text right under banner -->
